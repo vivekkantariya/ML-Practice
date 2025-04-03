@@ -1,0 +1,101 @@
+Loan_ID,Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,LoanAmount
+LP1000,Male,Yes,2,Graduate,No,16337,370
+LP1001,,Yes,0,Graduate,,24986,280
+LP1002,Female,Yes,0,Graduate,No,8812,190
+LP1003,Female,Yes,3+,Graduate,No,6820,340
+LP1004,Male,No,2,Graduate,No,14716,
+LP1005,Male,Yes,0,Not Graduate,No,24016,460
+LP1006,Male,Yes,0,Graduate,No,4279,
+LP1007,Female,No,2,Graduate,Yes,18808,210
+LP1008,Female,Yes,0,Not Graduate,,3081,90
+LP1009,Female,Yes,0,Graduate,Yes,21208,330
+LP1010,Male,Yes,2,Graduate,No,14177,80
+LP1011,,Yes,2,Graduate,,7213,140
+LP1012,Female,No,2,Graduate,,24910,210
+LP1013,Male,No,0,Not Graduate,No,18139,140
+LP1014,Male,Yes,3+,Not Graduate,No,6304,210
+LP1015,Male,No,0,Graduate,No,19722,240
+LP1016,Male,No,1,Graduate,No,11636,280
+LP1017,Female,Yes,3+,Graduate,No,1509,90
+LP1018,Male,No,2,Graduate,No,20755,380
+LP1019,Male,Yes,3+,Graduate,No,6624,100
+LP1020,Female,No,2,Graduate,No,2515,
+LP1021,Male,No,2,Graduate,No,3693,60
+LP1022,Male,Yes,0,Graduate,Yes,9915,170
+LP1023,Male,Yes,1,Graduate,No,15050,470
+LP1024,Female,Yes,0,Not Graduate,Yes,16012,470
+LP1025,Female,Yes,0,Graduate,No,5658,
+LP1026,Male,No,,Graduate,No,21809,150
+LP1027,Female,No,1,Graduate,No,8470,
+LP1028,Female,Yes,3+,Graduate,No,8438,
+LP1029,Male,Yes,2,Graduate,No,22668,270
+LP1030,Female,Yes,3+,Graduate,No,15272,
+LP1031,Male,Yes,2,Not Graduate,No,21884,200
+LP1032,Male,Yes,2,Graduate,No,19517,350
+LP1033,,Yes,1,Graduate,No,11844,150
+LP1034,,No,0,Graduate,Yes,8766,
+LP1035,Female,Yes,3+,Graduate,No,10202,200
+LP1036,Male,Yes,0,Not Graduate,Yes,1884,120
+LP1037,Male,No,0,Graduate,No,1904,80
+LP1038,Female,Yes,2,Graduate,No,9675,440
+LP1039,Male,,0,Graduate,Yes,16658,80
+LP1040,Male,,,Graduate,Yes,14263,290
+LP1041,Female,Yes,,Graduate,,19884,70
+LP1042,Male,Yes,,Graduate,No,11360,360
+LP1043,,Yes,1,Graduate,No,7489,70
+LP1044,Male,Yes,0,Graduate,No,16606,310
+LP1045,Female,Yes,,Graduate,,19344,330
+LP1046,Male,Yes,1,Graduate,,5136,360
+LP1047,Female,Yes,,Graduate,No,12416,
+LP1048,Female,Yes,,Graduate,No,6309,
+LP1049,Male,Yes,3+,Graduate,Yes,22062,230
+LP1050,,No,0,Graduate,No,14956,250
+LP1051,Female,Yes,1,Not Graduate,No,16944,90
+LP1052,,Yes,3+,Graduate,No,24484,220
+LP1053,Female,Yes,1,Graduate,,7497,320
+LP1054,Female,,0,Graduate,No,3548,460
+LP1055,,Yes,2,Graduate,No,13838,260
+LP1056,Male,Yes,,Graduate,Yes,22664,250
+LP1057,Male,No,2,Graduate,No,18600,100
+LP1058,Male,Yes,2,Not Graduate,Yes,23449,50
+LP1059,Male,No,0,Graduate,No,6044,90
+LP1060,Male,Yes,2,Graduate,No,6476,450
+LP1061,Male,Yes,,Graduate,No,14275,160
+LP1062,Female,Yes,0,Graduate,No,11515,300
+LP1063,Male,Yes,2,Graduate,No,4919,
+LP1064,Male,Yes,3+,Not Graduate,,15930,380
+LP1065,Female,No,3+,Graduate,No,8739,
+LP1066,Male,Yes,2,Not Graduate,No,15989,180
+LP1067,Female,Yes,3+,Not Graduate,No,18133,300
+LP1068,Male,Yes,1,Graduate,No,11857,490
+LP1069,,Yes,0,Graduate,,18654,310
+LP1070,Female,Yes,3+,Graduate,Yes,5863,130
+LP1071,Male,Yes,3+,Graduate,,11676,300
+LP1072,Male,Yes,3+,Graduate,Yes,18961,
+LP1073,Female,Yes,,Graduate,No,9927,260
+LP1074,Female,Yes,2,Graduate,No,10080,
+LP1075,Female,Yes,2,Graduate,,6358,340
+LP1076,Female,Yes,3+,Not Graduate,Yes,11540,470
+LP1077,Male,Yes,2,Graduate,No,24428,
+LP1078,Male,No,3+,Not Graduate,,22603,210
+LP1079,Male,Yes,3+,Graduate,No,20698,300
+LP1080,Female,Yes,3+,Graduate,No,21258,400
+LP1081,Female,Yes,1,Graduate,No,16754,50
+LP1082,Male,No,1,Graduate,No,12970,120
+LP1083,Male,No,0,Not Graduate,No,2752,
+LP1084,Male,Yes,2,Graduate,No,8496,390
+LP1085,Male,Yes,0,Not Graduate,,13673,
+LP1086,Female,No,1,Graduate,Yes,6173,190
+LP1087,Female,Yes,2,Graduate,No,22414,
+LP1088,Female,Yes,0,Not Graduate,,17281,260
+LP1089,Female,Yes,2,Not Graduate,No,14551,180
+LP1090,Male,Yes,0,Not Graduate,No,8381,300
+LP1091,Female,No,0,Graduate,No,8449,320
+LP1092,Female,No,3+,Graduate,No,11021,270
+LP1093,Female,Yes,1,Not Graduate,No,24125,180
+LP1094,Female,Yes,0,Graduate,No,9517,280
+LP1095,Female,Yes,2,Not Graduate,No,8441,60
+LP1096,Female,No,3+,Not Graduate,No,24886,490
+LP1097,Male,No,0,Graduate,Yes,11709,300
+LP1098,Male,No,2,Not Graduate,,19215,180
+LP1099,Male,No,0,Not Graduate,,22145,
