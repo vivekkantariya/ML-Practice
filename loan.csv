@@ -43,16 +43,16 @@ LP1040,Male,,,Graduate,Yes,14263,290
 LP1041,Female,Yes,,Graduate,,19884,70
 LP1042,Male,Yes,,Graduate,No,11360,360
 LP1043,,Yes,1,Graduate,No,7489,70
-LP1044,Male,Yes,0,Graduate,No,16606,310
+LP1044,Male,Yes,0,Graduate,No,124930,310
 LP1045,Female,Yes,,Graduate,,19344,330
 LP1046,Male,Yes,1,Graduate,,5136,360
-LP1047,Female,Yes,,Graduate,No,12416,
+LP1047,Female,Yes,,Graduate,No,12416,2450
 LP1048,Female,Yes,,Graduate,No,6309,
 LP1049,Male,Yes,3+,Graduate,Yes,22062,230
-LP1050,,No,0,Graduate,No,14956,250
+LP1050,,No,0,Graduate,No,124930,250
 LP1051,Female,Yes,1,Not Graduate,No,16944,90
 LP1052,,Yes,3+,Graduate,No,24484,220
-LP1053,Female,Yes,1,Graduate,,7497,320
+LP1053,Female,Yes,1,Graduate,,7497,2450
 LP1054,Female,,0,Graduate,No,3548,460
 LP1055,,Yes,2,Graduate,No,13838,260
 LP1056,Male,Yes,,Graduate,Yes,22664,250
@@ -69,14 +69,14 @@ LP1066,Male,Yes,2,Not Graduate,No,15989,180
 LP1067,Female,Yes,3+,Not Graduate,No,18133,300
 LP1068,Male,Yes,1,Graduate,No,11857,490
 LP1069,,Yes,0,Graduate,,18654,310
-LP1070,Female,Yes,3+,Graduate,Yes,5863,130
+LP1070,Female,Yes,3+,Graduate,Yes,5863,2450
 LP1071,Male,Yes,3+,Graduate,,11676,300
 LP1072,Male,Yes,3+,Graduate,Yes,18961,
 LP1073,Female,Yes,,Graduate,No,9927,260
 LP1074,Female,Yes,2,Graduate,No,10080,
 LP1075,Female,Yes,2,Graduate,,6358,340
-LP1076,Female,Yes,3+,Not Graduate,Yes,11540,470
-LP1077,Male,Yes,2,Graduate,No,24428,
+LP1076,Female,Yes,3+,Not Graduate,Yes,11540,2450
+LP1077,Male,Yes,2,Graduate,No,124930,
 LP1078,Male,No,3+,Not Graduate,,22603,210
 LP1079,Male,Yes,3+,Graduate,No,20698,300
 LP1080,Female,Yes,3+,Graduate,No,21258,400
@@ -85,7 +85,7 @@ LP1082,Male,No,1,Graduate,No,12970,120
 LP1083,Male,No,0,Not Graduate,No,2752,
 LP1084,Male,Yes,2,Graduate,No,8496,390
 LP1085,Male,Yes,0,Not Graduate,,13673,
-LP1086,Female,No,1,Graduate,Yes,6173,190
+LP1086,Female,No,1,Graduate,Yes,124930,190
 LP1087,Female,Yes,2,Graduate,No,22414,
 LP1088,Female,Yes,0,Not Graduate,,17281,260
 LP1089,Female,Yes,2,Not Graduate,No,14551,180
@@ -96,6 +96,6 @@ LP1093,Female,Yes,1,Not Graduate,No,24125,180
 LP1094,Female,Yes,0,Graduate,No,9517,280
 LP1095,Female,Yes,2,Not Graduate,No,8441,60
 LP1096,Female,No,3+,Not Graduate,No,24886,490
-LP1097,Male,No,0,Graduate,Yes,11709,300
+LP1097,Male,No,0,Graduate,Yes,11709,2450
 LP1098,Male,No,2,Not Graduate,,19215,180
-LP1099,Male,No,0,Not Graduate,,22145,
+LP1099,Male,No,0,Not Graduate,,124930,
